@@ -1,0 +1,11 @@
+@echo off
+REM /r makes the shutdown a restart
+REM /p makes it instant
+REM /c gives you the option to add text (max. 512 characters)
+REM You can replace "Computer Shutting Down! Bye, Bye!" with any message you want
+REM Just make sure that it is encased in "Quotation Marks".
+
+REM if you are using this code, delete all of the sentances starting with "REM"
+REM they are just to teach you what does what. :)
+
+shutdown /r /p /c "Computer Shutting Down! Bye, Bye!"
