@@ -19,4 +19,40 @@ and 1 file called:
 `<*Batch File Name*> Explination.md`
 
 #### Y tho?
-Becuase, if you are learning batch for some reason (unprofessional
+Because, if you are learning batch for some reason (unprofessional i presume [cuz u r here])
+you can look at the explination of the code and learn what it does or just read the code
+idk, whatever you want
+
+### If You are Writting/Editing
+the thing is... the code needs to run off of a standard windows 10 computer with no
+files or folders that are not standard, meaning the code must produce it.
+
+### If you Really Need Extra Files/Folders to Make it.
+If you NEED extra files/folder then that is ok, but not prefered.
+add the pre fix `Extra-` to the file name and the explination file, so:
+`Extra-<*Batch File Name*>.bat`
+and:
+`Extra-<*Batch File Name*> Explination.md`
+
+#### AND
+IF POSSIBLE add a seperate file (2 counting the Explanation.md file), named as per normal.
+this file is not needed, but sorta really, really, really, wanted.
+This file will contain a version of the same code in the folder... but it will be modified
+so that it will run on the standard windows 10 computer that has no extra files/folders.
+
+### Questions
+If you have any questions there is a folder called
+`Questions`
+that, surprisingly is meant for questions!!!!!
+
+#### New Questions
+If you have any NEW QUESTIONS (not a file named the topic) make another .md file 
+name the file whatever your questions topic is, make the topic broad, but not too broad so:
+`<*Question Topic*>.md`
+
+#### Question that has a `.md` with Topic
+if there is a `.md` file that fits your topic
+- See if there is a question INSIDE the `.md` that is the same/answers your question.
+- Add Your Question in the format below.
+
+### New Question Format
